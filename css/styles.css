@@ -1,0 +1,78 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+    text-align: center;
+    color: white;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 2%;
+    font-family: "Roboto", sans-serif;
+    line-height: 40px;
+}
+
+h3 {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    background-color: #4D5AE5;
+    color: white;
+    font-family: "Roboto";
+}
+
+a {
+    font-weight: normal;
+    text-decoration: underline;
+    color: #434455;
+    font-style: normal;
+}
+
+.logo-web {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+
+.logo {
+    text-decoration-color: #4D5AE5;
+    font-weight: 700;
+    font-family: "Raleway";
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+ .nav {
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+ }
