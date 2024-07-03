@@ -151,8 +151,13 @@ p {
 
 .footer-studio-span {
   color: #2e2f42;
+  font-family: "Raleway";
 }
 
 .body-medium {
-  color: #434455;
+  color: #2e2f42;
+}
+
+.header-studio {
+  font-family: "Raleway";
 }
