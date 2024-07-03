@@ -57,11 +57,11 @@ h3 {
 }
 
 button {
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 
-button:active {
+button:focus {
   background-color: #404bbf;
 }
 
@@ -73,6 +73,10 @@ header li a:hover {
   color: #404bbf;
 }
 
+header li a:focus {
+  color: #404bbf;
+}
+
 a {
   text-decoration: underline;
   color: #2e2f42;
@@ -80,8 +84,16 @@ a {
   letter-spacing: 0.02em;
 }
 
+nav {
+  font-family: "Raleway";
+}
+
 a:hover {
-  color: #2e2f42;
+  color: #434455;
+}
+
+a:focus {
+  color: #404bbf;
 }
 
 span {
@@ -139,4 +151,8 @@ p {
 
 .footer-paragraf {
   color: #f4f4fd;
+}
+
+.footer-studio-span {
+  color: #2e2f42;
 }
