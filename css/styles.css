@@ -7,6 +7,7 @@ body {
   letter-spacing: 2%;
   margin: 0 0;
   background-color: #ffffff;
+  position: relative;
 }
 
 .body-medium {
@@ -160,4 +161,22 @@ p {
 
 .header-studio {
   font-family: "Raleway";
+}
+
+.deneme {
+  width: auto;
+  height: auto;
+  left: auto;
+  top: auto;
+  box-sizing: border-box;
+  display: block;
+  align-items: center;
+  padding: 0;
+  flex-direction: column;
+  gap: inherit;
+  border-radius: auto;
+  box-shadow: none;
+  order: inherit;
+  flex-grow: none;
+  border-bottom: none;
 }
