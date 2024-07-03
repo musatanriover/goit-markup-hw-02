@@ -79,7 +79,7 @@ header li a:focus {
 
 a {
   text-decoration: underline;
-  color: #2e2f42;
+  color: #434455;
   font-style: normal;
   letter-spacing: 0.02em;
 }
@@ -121,10 +121,6 @@ footer {
   color: white;
 }
 
-footer .logo span {
-  color: white;
-}
-
 .our-team {
   background-color: #f4f4fd;
 }
@@ -155,4 +151,8 @@ p {
 
 .footer-studio-span {
   color: #2e2f42;
+}
+
+.body-medium {
+  color: #434455;
 }
