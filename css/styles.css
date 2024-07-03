@@ -6,6 +6,7 @@ body {
   line-height: 24px;
   letter-spacing: 2%;
   margin: 0 0;
+  background-color: #ffffff;
 }
 
 .body-medium {
@@ -15,40 +16,53 @@ body {
 h1 {
   font-weight: 700;
   font-size: 56px;
-  letter-spacing: 2%;
-  line-height: 60px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
   text-align: center;
   color: white;
 }
 
-.hero {
+.hero-first-section {
   background-color: #2e2f42;
 }
 
 h2 {
   font-weight: 700;
   font-size: 36px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   font-family: "Roboto", sans-serif;
   line-height: 40px;
   text-align: center;
+  line-height: 1.11;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 h3 {
   font-weight: 500;
   font-size: 20px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   line-height: 24px;
+  color: #2e2f42;
 }
 
-button {
+.button-first-section {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4%;
+  letter-spacing: 0.04;
   background-color: #4d5ae5;
   color: white;
   font-family: "Roboto", sans-serif;
+}
+
+button {
+  letter-spacing: 0.04;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #404bbf;
 }
 
 button:hover {
@@ -61,8 +75,13 @@ header li a:hover {
 
 a {
   text-decoration: underline;
-  color: #434455;
+  color: #2e2f42;
   font-style: normal;
+  letter-spacing: 0.02em;
+}
+
+a:hover {
+  color: #2e2f42;
 }
 
 span {
@@ -79,9 +98,10 @@ span {
   font-weight: 700;
   font-family: "Raleway";
   font-size: 18px;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 footer {
@@ -106,4 +126,17 @@ footer .logo span {
   border-width: 1px;
   border-color: #2e2f42;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+address {
+  font-style: normal;
+}
+
+p {
+  letter-spacing: 0.02em;
+  font-size: 16px;
+}
+
+.footer-paragraf {
+  color: #f4f4fd;
 }
