@@ -78,7 +78,7 @@ header li a:focus {
   color: #404bbf;
 }
 
-a {
+ul a {
   text-decoration: underline;
   color: #434455;
   font-style: normal;
@@ -89,11 +89,11 @@ nav {
   font-family: "Raleway", sans-serif;
 }
 
-a:hover {
+ul a:hover {
   color: #434455;
 }
 
-a:focus {
+ul a:focus {
   color: #404bbf;
 }
 
