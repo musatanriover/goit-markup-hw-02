@@ -86,7 +86,7 @@ a {
 }
 
 nav {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 
 a:hover {
@@ -100,7 +100,7 @@ a:focus {
 span {
   color: #2e2f42;
   font-weight: 700;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
@@ -109,7 +109,7 @@ span {
 .logo {
   text-decoration-color: #4d5ae5;
   font-weight: 700;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -152,7 +152,7 @@ p {
 
 .footer-studio {
   color: #2e2f42;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 
 .body-medium {
@@ -160,11 +160,7 @@ p {
 }
 
 .header-studio {
-  font-family: "Raleway";
-}
-
-nav span {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 
 .deneme {
