@@ -99,11 +99,6 @@ a:focus {
 
 span {
   color: #2e2f42;
-  font-weight: 700;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  line-height: 21px;
-  letter-spacing: 3%;
 }
 
 .logo {
@@ -148,11 +143,6 @@ p {
 
 .footer-paragraf {
   color: #f4f4fd;
-}
-
-.footer-studio {
-  color: #2e2f42;
-  font-family: "Raleway", sans-serif;
 }
 
 .body-medium {
