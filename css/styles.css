@@ -114,7 +114,6 @@ span {
 
 footer {
   background-color: #2e2f42;
-  color: white;
 }
 
 .our-team {
@@ -151,22 +150,4 @@ p {
 
 .header-studio {
   font-family: "Raleway", sans-serif;
-}
-
-.deneme {
-  width: auto;
-  height: auto;
-  left: auto;
-  top: auto;
-  box-sizing: border-box;
-  display: block;
-  align-items: center;
-  padding: 0;
-  flex-direction: column;
-  gap: inherit;
-  border-radius: auto;
-  box-shadow: none;
-  order: inherit;
-  flex-grow: none;
-  border-bottom: none;
 }
